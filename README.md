@@ -1,10 +1,8 @@
 # 🚗 Car Price Prediction with Linear Regression  
 
 ## 📖 Introduction  
-This project aims to **predict car prices** using linear regression.  
-It demonstrates the **end-to-end data science pipeline**, from data cleaning to model evaluation and diagnostics.  
-
-> Notebook language: **French (explanations)** + **English (code & comments)**  
+This project demonstrates a **complete workflow** for predicting car prices using **linear regression**. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and residual diagnostics.
+   
 
 ---
 
