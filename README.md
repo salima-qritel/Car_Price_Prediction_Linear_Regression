@@ -81,3 +81,21 @@ It demonstrates the **end-to-end data science pipeline**, from data cleaning to 
 ### 🔧 Requirements  
 ```bash
 pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn
+```
+## ▶️ Run Project
+
+**1.** Place CarPrice_Assignment.csv in project directory
+
+**2.** Open Car_price_prediction.ipynb in Jupyter Notebook/Lab
+
+**3.** Run all cells in sequence
+
+## ✅ Key Takeaways
+
+*Data preprocessing is critical for reliable models
+
+*Always check regression assumptions before interpretation
+
+*Feature engineering & transformations can boost model robustness
+
+*Visualization + statistics = better insights
